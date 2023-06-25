@@ -1,2 +1,7 @@
 <?php
-echo 'view';?>
+echo 'view';
+echo '<br>';
+require '../model/model.php';
+echo '<br>';
+require '../control/control.php';
+?>
